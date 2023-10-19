@@ -35,7 +35,9 @@ Star UML
 ## activity diagram:
 ![image](https://github.com/SowmyaVisvanathan/Library-Management/assets/119475775/f29ef359-1e41-40e8-9ca3-cffcb2ae7296)
 
-## collaboration diagram:
+## state diagram:
+![image](https://github.com/SowmyaVisvanathan/Library-Management/assets/119475775/b2e25b89-d1ad-4c73-816a-4f1249467f32)
+
 
 
 
