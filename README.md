@@ -30,6 +30,14 @@ Star UML
 ![image](https://github.com/SowmyaVisvanathan/Library-Management/assets/119475775/dcdfc56d-faad-4fe6-80b7-61c05a4b3306)
 
 ## sequence diagram:
+![image](https://github.com/SowmyaVisvanathan/Library-Management/assets/119475775/d287aedf-b64b-4520-b648-f78aec50fd86)
+
+## activity diagram:
+![image](https://github.com/SowmyaVisvanathan/Library-Management/assets/119475775/f29ef359-1e41-40e8-9ca3-cffcb2ae7296)
+
+## collaboration diagram:
+
+
 
 ### RESULT:
 Thus the Library management system project was executed and the output was verified.
